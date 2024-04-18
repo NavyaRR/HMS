@@ -1,0 +1,13 @@
+browser chrome
+url http\://rmgtestingserver/domain/Hospital_Management_System/
+user1 admin
+adminusername admin
+adminpassword Test@12345
+
+user2 doctor
+doctorusername varsha@123
+doctorpassword 123456
+
+user3 patient
+patientusername anju@1
+patientpassword 123456
