@@ -65,7 +65,8 @@ public class AddDoctor extends Baseclass
 
 
 		addDocpage ad = new addDocpage(driver);
-		ad.addDoctor(nam, add, fee, cont, rn+mail, pass, conpass, driver);				
+		ad.addDoctor(nam, add, fee, cont, rn+mail, pass, conpass, driver);
+		//hi
 	}
 }
 
